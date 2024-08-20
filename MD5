@@ -1,0 +1,17 @@
+12735873f0b1bcdfbe52983c962a9105 *DESCRIPTION
+c0a0f5bb693334df0418a79c1e1e339f *NAMESPACE
+4f173e9e7c68de90472889c480000169 *R/DateTime.R
+6932b4eb1b6282afcf31674bb65d7b02 *R/SaflowCalc.R
+b071a89bc6b3587e2721ac86f9359e5a *R/Tmax.R
+3da224a84f996eca06e4e8f9e26230c2 *data/SpFl.rda
+9f1c9739ec5af1a32383e7444c786602 *man/SpFl.Rd
+e772b542d710a8208023bc136e373c2e *man/SpWd_Area_calc.Rd
+df75b17ee4db7794e93ad3e488ff0322 *man/Tmax.find.Rd
+f1cfa66e4f9c94e6f5d1618b34a4fe3b *man/Tmax.mean.Rd
+5e0a75cd96ea59602fb4ca1e23c81aa9 *man/Tmaxplot.Rd
+faabebfbff88cabca3a0367268dcb4f8 *man/Wat.transp.Rd
+345decd5cf5b8bc6099d574f19596922 *man/date.to.DOY.Rd
+98b5aa9d2fda7e1b8b2b28b3db4c16d1 *man/datetime.Rd
+30c01aa968c6f4818c1be6aca010c885 *man/remove.fun.Rd
+4552579a6cf8a27ac92fd1bafbcc63b4 *man/tens.to.sapflow.Rd
+e069b1ac46d19d7bf0192a72038ffce9 *man/timecont.Rd
